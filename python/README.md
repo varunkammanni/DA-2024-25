@@ -1,4 +1,4 @@
-# DA-2024-25
+# Python/SQL Projects
 
 **Author:** Varun Kammanni
 
